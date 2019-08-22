@@ -1,0 +1,8 @@
+{
+    "prototype": {
+        "id": "org.apache.sling:a:slingosgifeature:0.0.1-SNAPSHOT"
+    },
+    "bundles": [
+        "org.apache.sling:org.apache.sling.contentparser.api:2.0.0"
+    ]
+}

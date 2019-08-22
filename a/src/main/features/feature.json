@@ -1,0 +1,6 @@
+{
+    "id": "${project.groupId}:${project.artifactId}:slingosgifeature:${project.version}",
+    "bundles": [
+        "org.apache.sling:org.apache.sling.api:2.20.0"
+    ]
+}
